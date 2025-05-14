@@ -31,5 +31,10 @@ namespace POS_RM
         {
 
         }
+
+        private void Food_Label_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
