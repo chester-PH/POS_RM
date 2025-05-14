@@ -1,0 +1,9 @@
+<Project>
+  <PropertyGroup>
+    <Version>1.2.3</Version>
+    <Company>MyCompany</Company>
+    <Authors>MyTeam</Authors>
+
+	  <LangVersion>9.0</LangVersion>
+  </PropertyGroup>
+</Project>
